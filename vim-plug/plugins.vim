@@ -17,6 +17,9 @@ Plug 'junegunn/fzf.vim'
 " Sensible configs
 Plug 'tpope/vim-sensible'
 
+" Vim surround
+Plug 'tpope/vim-surround'
+
 " Git plugin
 Plug 'tpope/vim-fugitive'
 

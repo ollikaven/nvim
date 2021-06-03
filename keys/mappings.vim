@@ -6,7 +6,7 @@ noremap <Right> <Nop>
 
 " Fzf file search
 nnoremap <silent> <C-f> :Files<CR>
-" Fzf line search NOT WORKING FIX THIS
+" Fzf line search. Leader is space.
 nnoremap <silent> <Leader>f :Rg<CR>
 
 " Better tabbing
